@@ -4,13 +4,7 @@
 
 ## Overview
 
-Digital_ID is a [brief description of your project]. It provides [mention the main functionality or purpose of your project].
-
-Check out the live demo: [Digital_ID Demo](https://leafy-madeleine-d7e671.netlify.app/)
-
-## Features
-
-- [List key features or functionalities of your project]
+Check out the live demo: [Digital_ID Demo](https://leafy-madeleine-d7e671.netlify.app/
 
 ## Getting Started
 
@@ -58,12 +52,14 @@ The project has the following structure:
 
   - [Explain the key folders or files]
 
-## Contributing
+Issues
+------
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Please follow the [contributing guidelines](CONTRIBUTING.md).
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Marishkumark/PSD_UI_Design/issues).
 
-## License
+License
+-------
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Marishkumark/License/blob/main/README.md) file for details.
 
----
+* * * * *
